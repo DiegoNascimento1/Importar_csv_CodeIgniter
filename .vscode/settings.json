@@ -1,0 +1,4 @@
+{
+    "php.validate.executablePath": "opt\\lampp\\php\\man\\man1\\php.",
+    "php.executablePath": "opt\\lampp\\php\\man\\man1\\php.1"
+}
